@@ -15,4 +15,7 @@ Hi, I'm coreizer, Full-stack 📄 Web / 💻 Software Developer from Japan.
 * Twitter: https://twitter.com/coreizer
 * Personal site: https://coreizer.dev/
 
+---
+
 ![ViewCount](https://views.whatilearened.today/views/github/coreizer/views.svg?cache=remove)
+
