@@ -1,6 +1,6 @@
 
 <!-- 挨拶 -->
-## Hey there 👋
+## 👋 Hey there
 
 Hi, I'm coreizer, Full-stack 📄Web / 💻Software Developer from Japan.
 
