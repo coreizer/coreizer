@@ -4,7 +4,7 @@
 
 Hi, I'm coreizer, Full-stack 📄 Web / 💻 Software Developer from Japan.
 
-* 📄 I'm Currently working on Personal-Website
+* 📄 I'm Currently working on ChatHub Software
 
 
 ## Random stats 🌟
