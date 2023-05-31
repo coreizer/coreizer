@@ -1,21 +1,16 @@
-
 <!-- 挨拶 -->
 ## Hey there 👋
 
 Hi, I'm coreizer, Full-stack 📄 Web / 💻 Software Developer from Japan.
+* 📄 I'm Currently working on ChatHub(private) Software
 
-* 📄 I'm Currently working on ChatHub Software
+---
 
-
-## Random stats 🌟
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coreizer)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## Get in touch 💬
-* Twitter : https://twitter.com/coreizer
-* Personal site : https://coreizer.dev/
+<br>
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=coreizer&theme=dark&show_icons=true">
+<img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreizer&theme=dark">
 
 ---
 
 ![ViewCount](https://views.whatilearened.today/views/github/coreizer/views.svg?cache=remove)
-
+[![Twitter: coreizer](https://img.shields.io/twitter/follow/coreizer?style=social)](https://twitter.com/coreizer)
