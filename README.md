@@ -7,8 +7,8 @@ Hi, I'm coreizer, Full-stack 📄 Web / 💻 Software Developer from Japan.
 ---
 
 <br>
-<img width="500" src="https://github-readme-stats.vercel.app/api?username=coreizer&theme=dark&show_icons=true">
-<img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreizer&theme=dark">
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=coreizer&theme=tokyonight&show_icons=true">
+<img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coreizer&theme=tokyonight&layout=compact">
 
 ---
 
