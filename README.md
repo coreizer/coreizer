@@ -1,8 +1,10 @@
 <!-- 挨拶 -->
+
 ## Hey there 👋
 
 Hi, I'm coreizer, Full-stack 📄 Web / 💻 Software Developer from Japan.
-* 📄 I'm Currently working on ChatHub(private) Software
+
+- 📄 I'm Currently working on RDST Software
 
 ---
 
