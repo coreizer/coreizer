@@ -4,7 +4,7 @@
 
 Hi, I'm coreizer, Full-stack 📄 Web / 💻 Software Developer from Japan.
 
-- 📄 I'm Currently working on RDST MOD
+- 📄 I'm Currently working on Red Dead Streamer (RDS) from 2024
 
 ---
 
