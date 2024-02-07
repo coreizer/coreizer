@@ -1,10 +1,12 @@
-<!-- 挨拶 -->
+# About
 
-## Hey there 👋
+Hey, I'm coreizer👋 Software engineer from Japan.
 
-Hi, I'm coreizer, Full-stack 📄 Web / 💻 Software Developer from Japan.
+📄 I'm Currently working on:
 
-- 📄 I'm Currently working on Red Dead Streamer (RDS) from 2024
+- RedM: Read Dead Streamer from 2024.
+- ChatHub from 2023.
+- more....
 
 ---
 
