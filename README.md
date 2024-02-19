@@ -4,7 +4,7 @@ Hey, I'm coreizer👋 Software engineer from Japan.
 
 📄 I'm Currently working on:
 
-- RedM: Read Dead Streamer from 2024.
+- RedM: Red Dead Streamer from 2024.
 - ChatHub from 2023.
 - more....
 
