@@ -5,7 +5,6 @@ Hey, I'm coreizer👋 Software engineer from Japan.
 📄 I'm Currently working on:
 
 - Package Viewer for PS3.
-- Red Dead Streamer(RDST) Staff.
 - Atomic roleplay framework for RedM.
 - ChatHub software from 2023.
 - more....
