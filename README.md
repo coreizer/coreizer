@@ -4,9 +4,9 @@ Hey, I'm coreizer👋 Software engineer from Japan.
 
 📄 I'm Currently working on:
 
-- Rust: Puikuma and Discord bot
-- RedM: Atomic frameworks from 2025.
-- ChatHub from 2025.
+- Rust: Puikuma
+- RedM: Atomic RP frameworks from 2025.
+- ChatHub from 2026.
 - more....
 
 ---
