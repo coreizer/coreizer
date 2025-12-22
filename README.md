@@ -4,6 +4,7 @@ Hey, I'm coreizer👋 Software engineer from Japan.
 
 📄 I'm Currently working on:
 
+- cfx-research.com
 - Rust: Puikuma
 - RedM: Atomic RP frameworks from 2025.
 - ChatHub from 2026.
